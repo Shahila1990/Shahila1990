@@ -11,6 +11,7 @@
 - :mailbox: contact me through fathima.shahila371@gmail.com or www.linkedin.com/in/shahila-mafraz
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shahila1990)](https://github.com/anuraghazra/github-readme-stats)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shahila1990&show_icons=true&theme=dark)
+
 
 
